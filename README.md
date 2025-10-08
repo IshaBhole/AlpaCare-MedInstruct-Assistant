@@ -55,12 +55,6 @@ MODEL_PATH=path_to_model
 
 Contributions are welcome! Please open issues and submit pull requests for improvements or new features.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 ## Contact
 
